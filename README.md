@@ -48,27 +48,19 @@
 
 ## Card - Stats
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinneaavs&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) | 
-
-
-
-<!-- ## Card - Most Used Languages
-
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vinneaavs&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)  -->
-
-
-### Card - Most Used Languages Compact
-
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vinneaavs&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)| 
-
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vinneaavs&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div style="display: flex;">
+    <div style="margin-right: 20px; height: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=vinneaavs&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
+    </div>
+    <div>
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vinneaavs&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Most Used Languages">
+    </div>
+</div>
 
 
 ## Card - Repository DIO
 
+<div style="display: flex; justify-content: center; align-items: center;">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinneaavs&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Repository DIO"/>
 
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vinneaavs&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/vinneaavs/dio-lab-open-source)|
-
-
+</div>
